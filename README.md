@@ -89,7 +89,7 @@ A 7–10 minute video covering the app's functionality and technical details is 
 
 ## Contributors
 
-- **Preethi**
+- **Preeti**
 - **Aditya** 
 - **Shamanth** 
 - **Vaibhav** 
